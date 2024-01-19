@@ -35,15 +35,4 @@ func calculator() {
 		value = n1 / n2
 		fmt.Println(n1, "/", n2, "=", value)
 	}
-
-	// names := []string{"divet", "bambang", "paijo"}
-	// for index, value := range names {
-	// 	fmt.Printf("absen %v namanya adalah %v \n", index+1, value)
-	// }
-
-	// names := []string{"divet", "bambang", "paijo"}
-	// for _, value := range names {
-	// 	fmt.Printf("namanya adalah %v \n", value)
-	// }
-
 }
